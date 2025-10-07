@@ -117,19 +117,16 @@ O **EventHub** utiliza o **CRUD completo** (Criação, Leitura, Atualização e 
 ## 🌐 **Deploy Online**
 
 🔗 Acesse o aplicativo em produção:  
-👉 [**EventHub em Produção**](https://rally-point-maker.lovable.app/)
+👉 [**EventHub em Produção**](https://eventhubbr.lovable.app/login)
 
 ---
 
 ## 👨‍💻 **Autor**
 
 **José Luis Meneses da Silva**  
-🎓 Engenharia de Software – 3º Período  
-📧 jose.luis@email.com  
+🎓 Engenharia de Software – 4º Período  
+📧 joseluis.123.br@gmail.com
 
 ---
 
-## 🪶 **Licença**
 
-Este projeto foi desenvolvido com fins acadêmicos e demonstrativos.  
-Você pode utilizá-lo como base para estudos, melhorias e novos desenvolvimentos, desde que mantenha os devidos créditos.
