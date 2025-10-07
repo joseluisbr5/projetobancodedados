@@ -40,7 +40,7 @@ A plataforma também conta com uma **view** no banco de dados chamada **`events_
 
 ## 🗃️ **Modelo Lógico do Banco de Dados**
 
-![Modelo Lógico](./image.png)
+![Modelo Lógico](./modelologico.png)
 
 ### **Tabelas Principais**
 
